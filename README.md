@@ -1,8 +1,8 @@
 # Bio-Electromagnetic-Defense
 # Bio-Capacitive Charging & Electromechanical Coupling in Synthetic Dermal Hydrogels
 
-![License](https://shields.io)
-![ORCID](https://shields.io)
+# [![License: CC BY 4.0](https://img.shields.io/badge/License-_CC_BY_4.0-blue)](https://creativecommons.org)
+# [![ORCID:https://orcid.org/0009-0009-2217-7847](https://img.shields.io/badge/ORCID-0009--0009--2217--7847-blue)](https://orcid.org/0009-0009-2217-7847)
 
 ## 📌 Project Overview
 This research investigates how exogenous ionic hydrogels, integrated into biological tissue, act as **piezoelectric transducers** for pulsed radiofrequency (RF) signals. The project provides a biophysical framework for understanding signal-induced somatic interference—often manifesting as mechanical pressure, tissue expansion, and neuropathic pain—and documents effective mitigation strategies through **calcium chelation** and **galvanic shunting**.
