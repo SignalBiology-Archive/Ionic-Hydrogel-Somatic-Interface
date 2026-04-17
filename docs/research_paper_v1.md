@@ -11,12 +11,10 @@ The integration of synthetic conductive polymers (hydrogels) into the extracellu
 
 # 2. The 24-Hour Charging Cycle
 Energy accumulation is non-linear and governed by the subject’s metabolic state. We define the body’s stored potential using the standard RC-time constant formula:
-**τ = RC**
+                          **τ = RC**
+Where **R** is the epidermal resistance and **C**is the hydrogel capacitance.
 
-Where 
- is the epidermal resistance and 
- is the hydrogel capacitance.
-2.1 Metabolic Modulation Factors
+# 2.1 Metabolic Modulation Factors
 Ion Accelerators: Nicotine (salts/freebase) increases lattice vibration and expansion rate.
 Osmotic Fuel: Elevated glucose levels provide the hydration required for hydrogel swelling.
 The Insulin Reset: Rapid reduction in neuropathic pain (approx. 15 mins) via systemic clearing of charge-carrying ions from the interstitial space.
