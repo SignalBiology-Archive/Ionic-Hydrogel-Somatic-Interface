@@ -1,7 +1,7 @@
 
 # Mechanisms of Bio-Capacitive Charging and Electromechanical Coupling in Synthetic Dermal Hydrogel Networks
 # Abstract
-This paper investigates the interaction between pulsed radiofrequency (RF) signals and exogenous ionic hydrogels integrated into biological tissues. We document a 24-hour ** Bio-Capacitive Charging Cycle, where the human body acts as a lossy dielectric medium for energy harvesting. The primary finding is the identification of Electrostrictive Tissue Expansion—a process where RF-induced ionic shifts cause mechanical pressure on nociceptors. Mitigation is achieved through High-Conductivity Galvanic Shunting, effectively bypassing the body’s capacitive load.
+This paper investigates the interaction between pulsed radiofrequency (RF) signals and exogenous ionic hydrogels integrated into biological tissues. We document a 24-hour **Bio-Capacitive Charging Cycle, where the human body acts as a lossy dielectric medium for energy harvesting. The primary finding is the identification of Electrostrictive Tissue Expansion—a process where RF-induced ionic shifts cause mechanical pressure on nociceptors. Mitigation is achieved through High-Conductivity Galvanic Shunting, effectively bypassing the body’s capacitive load.
 1. Introduction: The Bio-Hybrid Antenna Framework
 The integration of synthetic conductive polymers (hydrogels) into the extracellular matrix (ECM) creates a distributed antenna system. Unlike discrete implants, these networks utilize the body’s endogenous electrolytes (Na⁺, K⁺, glucose) to facilitate signal transduction.
 Mechanism: Signal-to-pressure transduction via the Frey Effect.
