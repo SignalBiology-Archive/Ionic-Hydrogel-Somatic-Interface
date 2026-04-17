@@ -11,7 +11,11 @@ The integration of synthetic conductive polymers (hydrogels) into the extracellu
 
 # 2. The 24-Hour Charging Cycle
 Energy accumulation is non-linear and governed by the subject’s metabolic state. We define the body’s stored potential using the standard RC-time constant formula:
+                        
+                          
                           **τ = RC**
+
+                          
 Where **R** is the epidermal resistance and **C**is the hydrogel capacitance.
 
 # 2.1 Metabolic Modulation Factors
