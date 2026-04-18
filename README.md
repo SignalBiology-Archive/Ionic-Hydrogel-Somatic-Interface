@@ -35,7 +35,7 @@ This repository documents a breakthrough in **Bio-Electromagnetic Interaction**.
 
 ## ✍️ Author
 **Lead Researcher:** [SignalBiology-Archive]  
-**ORCID:** [0009-0009-2217-7847](https://orcid.org)
+**ORCID:** [0009-0009-2217-7847](https://orcid.org/0009-0009-2217-7847)
 
 ## ⚖️ License
 This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. You are free to share, copy, and adapt this material as long as appropriate credit is given to the original researcher and the ORCID provided.
