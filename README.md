@@ -43,6 +43,14 @@ This work is licensed under a **Creative Commons Attribution 4.0 International L
 ---
 
 ---
+---
+
+**⚠️ Safety Disclaimer:** This research is for educational purposes. Always utilize current-limiting resistors in grounding circuits and perform patch tests for topical chelation agents.
+
+
+---
+**Disclaimer:** This research is for educational and experimental purposes. Always prioritize safety when working with conductive materials and chemical solutions.
+
 
 ## 📝 How to Cite This Research
 
@@ -62,18 +70,6 @@ If you use these protocols, data, or theoretical frameworks in your own work, pl
   howpublished = {\url{https://github.com/SignalBiology-Archive/Bio-Electromagnetic-Defense}},
   note = {ORCID: 0009-0009-2217-7847}
 }
->
-<
 
 
 
----
----
-
-
-
-**⚠️ Safety Disclaimer:** This research is for educational purposes. Always utilize current-limiting resistors in grounding circuits and perform patch tests for topical chelation agents.
-
-
----
-**Disclaimer:** This research is for educational and experimental purposes. Always prioritize safety when working with conductive materials and chemical solutions.
