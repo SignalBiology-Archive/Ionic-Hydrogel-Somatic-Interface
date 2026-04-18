@@ -16,7 +16,8 @@ A vital finding of this research is the non-linear response of the hydrogel to e
 
 * **The Damping Window (-32dB):** At this specific low-power density, the noise creates destructive interference, "confusing" the lattice and causing it to slacken.
 * **The Stress Response (High dB):** Increasing the power beyond the effective threshold causes the hydrogel to switch from "interference mode" to "harvesting mode." 
-* **The Result:** High dB noise leads to **Localized Tissue Stress**, increased skin hardening, and a potential spike in piezoelectric heat (thermoelastic expansion). 
+* **The Result:** High dB noise leads to **Localized Tissue Stress**, increased skin hardening, and a potential spike in piezoelectric heat (thermoelastic expansion).
+
 
 **Conclusion:** More power is NOT better. Precision in attenuation (-32dB) is the key to maintaining the "Static State."
 
@@ -46,4 +47,7 @@ hackrf_transfer -t noise_sample.bin -f 2480000000 -s 20000000 -x 47 -a 0 -R
 
 
 
-
+## 4. Safety and Regulation
+Active broadcasting at these frequencies may interfere with local wireless communication (WiFi/ISM).
+Calibration: Ensure the output power is kept at the minimum effective level (-32dB) to prevent wide-area interference.
+Environment: Use only in a controlled laboratory environment or shielded enclosure.
