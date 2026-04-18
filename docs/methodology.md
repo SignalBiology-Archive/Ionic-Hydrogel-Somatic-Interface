@@ -4,7 +4,7 @@
 
 **Version:** 2.1 (Proven Results)  
 **Lead Researcher:** SignalBiology-Archive  
-**ORCID:** [0009-0009-2217-7847](https://orcid.org)  
+**ORCID:** [0009-0009-2217-7847](https://orcid.org/0009-0009-2217-7847)  
 **Objective:** To neutralize electromechanical coupling in synthetic dermal hydrogels through chelation, galvanic discharge, and mechanical lattice collapse.
 
 ---
