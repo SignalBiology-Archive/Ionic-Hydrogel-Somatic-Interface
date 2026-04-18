@@ -42,9 +42,6 @@ This work is licensed under a **Creative Commons Attribution 4.0 International L
 
 ---
 
----
----
-
 **⚠️ Safety Disclaimer:** This research is for educational purposes. Always utilize current-limiting resistors in grounding circuits and perform patch tests for topical chelation agents.
 
 
