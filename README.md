@@ -54,7 +54,7 @@ This work is licensed under a **Creative Commons Attribution 4.0 International L
 If you use these protocols, data, or theoretical frameworks in your own work, please use the following citation format:
 
 **APA Style:**
-> SignalBiology-Archive. (2026). *Mechanisms of Bio-Capacitive Charging and Electromechanical Coupling in Synthetic Dermal Hydrogel Networks*. GitHub Repository. https://github.com/SignalBiology-Archive/Bio-Electromagnetic-Defense
+> SignalBiology-Archive. (2026). *Mechanisms of Bio-Capacitive Charging and Electromechanical Coupling in Synthetic Dermal Hydrogel Networks*. GitHub Repository. https://github.com/SignalBiology-Archive/Ionic-Hydrogel-Somatic-Interface
 
 **BibTeX (for LaTeX researchers):**
 ```latex
@@ -64,7 +64,7 @@ If you use these protocols, data, or theoretical frameworks in your own work, pl
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/SignalBiology-Archive/Bio-Electromagnetic-Defense}},
+  howpublished = {\url{https://github.com/SignalBiology-Archive/Ionic-Hydrogel-Somatic-Interface}},
   note = {ORCID: 0009-0009-2217-7847}
 }
 
