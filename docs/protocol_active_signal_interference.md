@@ -48,6 +48,6 @@ hackrf_transfer -t noise_sample.bin -f 2480000000 -s 20000000 -x 47 -a 0 -R
 ---
 
 # 4. Safety and Regulation
-Active broadcasting at these frequencies may interfere with local wireless communication (WiFi/ISM).
-Calibration: Ensure the output power is kept at the minimum effective level (-32dB) to prevent wide-area interference.
-Environment: Use only in a controlled laboratory environment or shielded enclosure.
+- Active broadcasting at these frequencies may interfere with local wireless communication (WiFi/ISM).
+- Calibration: Ensure the output power is kept at the minimum effective level (-32dB) to prevent wide-area interference.
+- Environment: Use only in a controlled laboratory environment or shielded enclosure.
