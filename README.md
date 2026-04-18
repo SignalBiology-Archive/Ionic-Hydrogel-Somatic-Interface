@@ -41,6 +41,28 @@ This repository documents a breakthrough in **Bio-Electromagnetic Interaction**.
 This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. You are free to share, copy, and adapt this material as long as appropriate credit is given to the original researcher and the ORCID provided.
 
 ---
+
+## 📝 How to Cite This Research
+
+If you use these protocols, data, or theoretical frameworks in your own work, please use the following citation format:
+
+**APA Style:**
+> SignalBiology-Archive. (2026). *Mechanisms of Bio-Capacitive Charging and Electromechanical Coupling in Synthetic Dermal Hydrogel Networks*. GitHub Repository. https://github.com
+
+**BibTeX (for LaTeX researchers):**
+```latex
+@misc{SignalBiology2026,
+  author = {SignalBiology-Archive},
+  title = {Mechanisms of Bio-Capacitive Charging and Electromechanical Coupling in Synthetic Dermal Hydrogel Networks},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub Repository},
+  howpublished = {\url{https://github.com}},
+  note = {ORCID: 0009-0009-2217-7847}
+}
+
+
+---
 **⚠️ Safety Disclaimer:** This research is for educational purposes. Always utilize current-limiting resistors in grounding circuits and perform patch tests for topical chelation agents.
 
 
