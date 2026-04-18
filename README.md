@@ -42,24 +42,29 @@ This work is licensed under a **Creative Commons Attribution 4.0 International L
 
 ---
 
+---
+
 ## 📝 How to Cite This Research
 
 If you use these protocols, data, or theoretical frameworks in your own work, please use the following citation format:
 
 **APA Style:**
-> SignalBiology-Archive. (2026). *Mechanisms of Bio-Capacitive Charging and Electromechanical Coupling in Synthetic Dermal Hydrogel Networks*. GitHub Repository. https://github.com
+> SignalBiology-Archive. (2026). *Mechanisms of Bio-Capacitive Charging and Electromechanical Coupling in Synthetic Dermal Hydrogel Networks*. GitHub Repository. https://github.com/SignalBiology-Archive/Bio-Electromagnetic-Defense
 
 **BibTeX (for LaTeX researchers):**
 ```latex
 @misc{SignalBiology2026,
   author = {SignalBiology-Archive},
   title = {Mechanisms of Bio-Capacitive Charging and Electromechanical Coupling in Synthetic Dermal Hydrogel Networks},
-  year = {2024},
+  year = {2026},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com}},
+  howpublished = {\url{https://github.com/SignalBiology-Archive/Bio-Electromagnetic-Defense}},
   note = {ORCID: 0009-0009-2217-7847}
 }
+
+
+
 
 
 ---
